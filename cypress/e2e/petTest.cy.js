@@ -8,6 +8,7 @@ pet.name = faker.animal.crocodilia.name;
 pet.category.id = parseInt(faker.random.numeric(3));
 pet.category.name = faker.animal.type();
 
+
 describe('Pet suite', () => {
 
   it('Pet creation', () => {

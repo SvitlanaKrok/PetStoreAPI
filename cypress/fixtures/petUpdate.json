@@ -6,12 +6,12 @@
   },
   "name": "doggie",
   "photoUrls": [
-    "http://photos.com/d5j5kg3k478t98112"
+    "string"
   ],
   "tags": [
     {
-      "id": 67,
-      "name": "woof"
+      "id": 0,
+      "name": "string"
     }
   ],
   "status": "available"
